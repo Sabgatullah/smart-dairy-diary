@@ -1,0 +1,8 @@
+{
+  "name": "Smart Dairy Diary",
+  "description": "AI-based dairy farm management system for cow and buffalo herds, milk yield tracking, breeding, health, feed expenses, and profit & loss analytics in PKR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
